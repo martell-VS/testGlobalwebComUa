@@ -1,0 +1,20 @@
+1. Заходим на страницу http://test.globalweb.com.ua/index.php?route=account/register
+2. В поле "First name" пишем "Marta"
+3. В поле "Last name" пишем "Fedchak"
+4. В поле "Date of Birth" пишем "@#$%^&*()_"
+5. В поле "E-mail Address" пишем "mdfhh@erty.com"
+6. В поле "Street Adress" пишем "@#$%^&*()_"
+7. в поле "Post Code" пишем "@#$%^&*()_"
+8. В поле "Country" нажимаем на select menu, выбираем "Ukraine"
+9. В поле "State/Privince"нажимаем на select menu, выбираем "Odes`ka Odlast`"
+10. В поле "City" пишем "@#$%^&*()_"
+11. В поле "Telephone Number" пишем "@#$%^&*()_"
+12. В поле "Password" пишем "123456"
+13. В поле "Confirm password" пишем "123456"
+14. Нажимаем на кнопку "Сontinue"
+
+Ожидаемый результат:
+Выскакивает ошибка о неверно введенных данных
+
+Фактический результат:
+Новый покупатель регистрируется

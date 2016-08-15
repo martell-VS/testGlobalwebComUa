@@ -1,0 +1,20 @@
+1. Открываем http://test.globalweb.com.ua/index.php?route=common/all_categories
+2. В категории "Anti Anxiety" выбираем "VALIUM (DIAZEPAM)"
+3. В графе "Valium 10 mg" выбираем количество "2", нажимаем "Buy"
+4. Нажимаем на иконку "Корзина" в правом верхнем углу
+5. В рор-up "Корзины" нажимаем кнопку "Checkout"
+6. В поле "First name" пишем "Marta"
+7. В поле "Last name" пишем "Fedchak"
+8. В поле "Date of Birth" пишем "18/08/1979"
+9. В поле "Address" пишем "Koroleva"
+10. В поле "City" пишем "Odessa"
+11. В поле "Country" нажимаем на select menu
+
+Ожидаемый результат:
+Появится выбор названия страны в поле "Country"
+
+Фактический результат:
+Выбора названия страны нет, как и нет возможности ввести ее в ручную.
+
+скрин:
+http://prnt.sc/b8gmtg
